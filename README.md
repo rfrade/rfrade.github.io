@@ -2,6 +2,9 @@
 
 ## Rafael Frade
 
+### Wroking Paper
+Using ELQ for entity linking of material culture knowledge base
+
 ### Education
 * **Central European University** 2019/2022  
 Master of Arts in Economics
@@ -12,13 +15,13 @@ Bachelor’s degree of Social Sciences
 
 ### Work Experience
 * **Research Assistant: London School of Economics** - Since Oct/22  
-Research position working on econometric evaluation of trade, health and development policies  
-Main tasks: policy evaluation, implementation of machine learning algorithms, econometric estimation, presentation of policy results to stakeholders
+Research position working on econometric evaluation of health and development policies  
+Main tasks: policy evaluation, implementation of machine learning algorithms for OCR and econometric estimation.
 
 
 * **Research Assistant: Sciences Po** - June/21 - Sept/22  
 Research position with Professors Johannes Boehm and Thomas Chaney in a project that tried to create a model for technological development and diffusion  
-Main tasks: Big data management, data analysis,  NLP models, academic paper writing
+Main tasks: ETL pipeline management, data analysis,  use of NLP models for entity linking, academic writing
 
 
 * **Research Assistant - Wirtschaftsuniversität Viena** - Dec/20 - June/21  
