@@ -2,8 +2,8 @@
 
 ## Rafael Frade
 
-### Wroking Paper
-Using ELQ for entity linking of material culture knowledge base
+### Working Paper
+Using Blink/ELQ for entity linking of a material culture knowledge base
 
 ### Education
 * **Central European University** 2019/2022  
